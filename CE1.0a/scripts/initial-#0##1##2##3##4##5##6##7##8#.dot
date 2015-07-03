@@ -1,0 +1,22 @@
+digraph g {
+    0 [state=#0#, state_prev=0,left=0,right=0,first=0,second=0,third=0,fourth=0,fifth=0,sixth=0,seventh=0,eigthth=0];
+    1 [state=#1#, state_prev=0,left=0,right=0,first=0,second=0,third=0,fourth=0,fifth=0,sixth=0,seventh=0,eigthth=0];
+    2 [state=#2#, state_prev=0,left=0,right=0,first=0,second=0,third=0,fourth=0,fifth=0,sixth=0,seventh=0,eigthth=0];
+    3 [state=#3#, state_prev=0,left=0,right=0,first=0,second=0,third=0,fourth=0,fifth=0,sixth=0,seventh=0,eigthth=0];
+    4 [state=#4#, state_prev=0,left=0,right=0,first=0,second=0,third=0,fourth=0,fifth=0,sixth=0,seventh=0,eigthth=0];
+    5 [state=#5#, state_prev=0,left=0,right=0,first=0,second=0,third=0,fourth=0,fifth=0,sixth=0,seventh=0,eigthth=0];
+    6 [state=#6#, state_prev=0,left=0,right=0,first=0,second=0,third=0,fourth=0,fifth=0,sixth=0,seventh=0,eigthth=0];
+    7 [state=#7#, state_prev=0,left=0,right=0,first=0,second=0,third=0,fourth=0,fifth=0,sixth=0,seventh=0,eigthth=0];
+    8 [state=#8#, state_prev=0,left=0,right=0,first=0,second=0,third=0,fourth=0,fifth=0,sixth=0,seventh=0,eigthth=0];
+  
+
+  0 -> 1;
+  1 -> 2;
+  2 -> 3;
+  3 -> 4;
+  4 -> 5;
+  5 -> 6;
+  6 -> 7;
+  7 -> 8;
+  8 -> 0;
+}
